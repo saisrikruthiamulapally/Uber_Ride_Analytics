@@ -119,6 +119,6 @@ The analysis demonstrates how raw ride-booking data can be transformed into mean
 
 ## 👤 Author
 
-**[Sai Srikruthi]**
+**Sai Srikruthi**
 
 Data Analytics • Business Intelligence • Python • SQL • Power BI
